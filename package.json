@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/77Andrey77/goit-js-hw-11-timer-2022/issues"
   },
-  "homepage": "https://77Andrey77.github.io/goit-js-hw-11-timer-2022#readme",
+  "homepage": "https://77Andrey77.github.io/goit-js-hw-11-timer-2022",
   "dependencies": {
     "bootstrap.native": "^4.2.0",
     "gh-pages": "^4.0.0",
